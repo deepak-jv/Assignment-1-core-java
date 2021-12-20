@@ -1,4 +1,4 @@
-# Assignment-1-core-java
+# Core Java Assignment-1
 
 This assignment is based on core java concepts.
 in this user give input from console and the related code will execute.
